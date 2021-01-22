@@ -47,7 +47,7 @@ cd SumIt
 * Install all the requirements
 ```
 pip install flask
-pip install ntlk
+pip install nltk
 ```
 * Run:
 ```
